@@ -1,1 +1,4 @@
-# gck
+- 👋 Hi, I’m @gck35
+- 👀 I’m interested in big data and cloud
+- 🌱 I’m currently learning Snowflake
+- 💞️ I’m looking to collaborate on all
